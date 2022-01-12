@@ -1,4 +1,4 @@
-# author: Tiffany Timbers
+# author: Wenxin Xiang
 # date: 2020-02-23
 
 """Calculates and prints the square root of a given number.
